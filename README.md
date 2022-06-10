@@ -5,10 +5,6 @@
   - [Active Directory Home Lab](https://github.com/AdolfoP77/ActiveDirectoryLab)
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
 
 <h2> 🤳 Certifications:</h2>
 -[CompTIA Security+]
@@ -19,9 +15,9 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<h3> Connect With Me </h3>
+Connect With Me
 
-[linkedin]: https://www.linkedin.com/in/adolfo-perez-250494226
+[linkedin] (https://www.linkedin.com/in/adolfo-perez-250494226)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
