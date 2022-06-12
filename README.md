@@ -1,8 +1,13 @@
 <h1>Hi, I'm Adolfo! </h1>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
-
+ Active Directory and Powershell +1k Users Lab (Windows 10 VM and Windows 2019 Server VM):
+ <br>
   - [Active Directory Home Lab](https://github.com/AdolfoP77/ActiveDirectoryLab)
+  - <br>
+   Azure Sentinal SIEM Honey Pot:
+  - <br>
+  - [SIEM Sential](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 
 
@@ -10,10 +15,7 @@
 -[CompTIA Security+]
 [CompTIA Security+ ce certificate.pdf](https://github.com/AdolfoP77/AdolfoP77/files/8863772/CompTIA.Security%2B.ce.certificate.pdf)
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 Connect With Me
 
