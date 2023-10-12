@@ -21,7 +21,6 @@
 
 <h2> 🤳 Certifications:</h2>
 -[CompTIA Security+]
-[CompTIA Security+ ce certificate.pdf](https://github.com/AdolfoP77/AdolfoP77/files/8863772/CompTIA.Security%2B.ce.certificate.pdf)
 
 
 
