@@ -1,10 +1,12 @@
 <h1>Hi, I'm Adolfo! </h1>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
- Active Directory and Powershell +1k Users Lab (Windows 10 VM and Windows 2019 Server VM):
+ Azure Cloud SOC:
  <br>
   - [Cloud SOC](https://github.com/AdolfoP77/CloudSOC)
   <br>
+   Active Directory and Powershell +1k Users Lab (Windows 10 VM and Windows 2019 Server VM):
+   <br>
   - [Active Directory Home Lab](https://github.com/AdolfoP77/ActiveDirectoryLab)
   - <br>
    Azure Sentinal SIEM Honey Pot:
