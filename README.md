@@ -3,7 +3,7 @@
 <h2>👨‍💻Cybersecurity Projects:</h2>
  Active Directory and Powershell +1k Users Lab (Windows 10 VM and Windows 2019 Server VM):
  <br>
-  - [Cloud SOC](https://github.com/AdolfoP77/ActiveDirectoryLab)
+  - [Cloud SOC](https://github.com/AdolfoP77/CloudSOC)
   - [Active Directory Home Lab](https://github.com/AdolfoP77/ActiveDirectoryLab)
   - <br>
    Azure Sentinal SIEM Honey Pot:
