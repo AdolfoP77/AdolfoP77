@@ -21,8 +21,9 @@
 
 <h2> 🤳 Certifications:</h2>
 -[CompTIA Security+]
-
-
+-[CompTIA A+]
+-[ITIL]
+-[Levld Careers Cyber Security Analyst]
 
 Connect With Me
 
